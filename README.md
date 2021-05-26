@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @albertoomnitracker
+- 👋 Hi, I’m Alberto Gurrion as OmniTracker ;)
 - 👀 I’m interested in microservices
-- 🌱 I’m currently learning devops and frontend
+- 🌱 I’m currently working on openshift and angular
 - 💞️ I’m looking to collaborate in ST68 snowflakes
 
 <!---
